@@ -1,1 +1,1 @@
-# weaterapi that display weather in different cities.
+# weatherapi that display weather in different cities.
